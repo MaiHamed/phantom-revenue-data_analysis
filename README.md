@@ -8,8 +8,16 @@ Uncover lost revenue due to stockouts using real ASOS product catalog data. This
 
 ```
 stockout-analysis/
-├── products_asos.csv              # Raw product catalog
-├── stockout_analysis.ipynb        # Main analysis notebook
+├── data/
+│   └── products_asos.csv              # Raw product catalog
+│
+├── notebooks/
+│   └── stockout_analysis.ipynb        # Main analysis notebook
+│
+├── outputs/
+│   └── brand_strategy_scatter.png     # Generated visualization
+│
+├── .gitignore
 └── README.md
 ```
 
