@@ -2,7 +2,7 @@
 
 A complete Python data analysis project that uncovers **lost revenue due to stockouts** using real e-commerce data. Perfect for a data analyst portfolio — covers cleaning, transformation, metric creation, and business visualization.
 
-## 🎯 Project Objective
+## Project Objective
 Supply chains lose money when popular sizes go out of stock. This project:
 - Parses messy size/stock strings (e.g., `"UK 6, UK 8 - Out of stock"`)
 - Calculates **stockout rate** and **phantom (lost) revenue**
@@ -13,13 +13,13 @@ Supply chains lose money when popular sizes go out of stock. This project:
 Real dataset provided in the tutorial (see resources link in video). Contains:
 - Product name, brand, price, size availability
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 - Python 3
 - Pandas (data cleaning & aggregation)
 - Matplotlib & Seaborn (visualization)
 - Google Colab (or Jupyter)
 
-## 📊 Key Steps
+##  Key Steps
 
 ### 1. Data Cleaning
 - Extract brand from product description using string methods
