@@ -1,6 +1,6 @@
 #  Stockout & Phantom Revenue Analysis
 
-A complete Python data analysis project that uncovers **lost revenue due to stockouts** using real e-commerce data. Perfect for a data analyst portfolio — covers cleaning, transformation, metric creation, and business visualization.
+A complete Python data analysis project that uncovers **lost revenue due to stockouts** using real e-commerce data. Covers cleaning, transformation, metric creation, and business visualization.
 
 ## Project Objective
 Supply chains lose money when popular sizes go out of stock. This project:
@@ -10,8 +10,7 @@ Supply chains lose money when popular sizes go out of stock. This project:
 - Produces a **brand strategy scatter plot** to recommend action
 
 ## 📁 Data Source
-Real dataset provided in the tutorial (see resources link in video). Contains:
-- Product name, brand, price, size availability
+Real dataset products_asos.csv
 
 ##  Tools & Libraries
 - Python 3
